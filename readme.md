@@ -40,7 +40,7 @@ uvicorn main:app --reload
 Visit:
 
 ```
-http://127.0.0.1:8000/docs
+https://personal-finance-manager-api-d3mq.onrender.com/docs#/
 ```
 
 ## Project Structure
